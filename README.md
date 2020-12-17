@@ -31,7 +31,6 @@ Additional data files:
 
 # References 
 
-Please cite : 
 Woloszko, N. (2020), ["Tracking activity in real time with Google Trends"](https://doi.org/10.1787/6b9c7518-en), OECD Economics Department Working Papers, No. 1634, OECD Publishing, Paris, https://doi.org/10.1787/6b9c7518-en.
 
 
