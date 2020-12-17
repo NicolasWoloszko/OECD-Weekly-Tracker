@@ -7,6 +7,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "default", "dark", "dirt", "n
 kramdown:
   math_engine: mathjax
 #google_analytics: [Your Google Analytics tracking ID]
-
-header_background_color: "#037bc1"
-header_background_color_secondary: "#037bc1"
+params:
+  header_heading_color: "#fff"
+  header_background_color: "#037bc1"
+  header_background_color_secondary: "#037bc1"
