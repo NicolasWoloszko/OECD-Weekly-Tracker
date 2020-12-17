@@ -28,20 +28,20 @@ Alternatively, use the dropdown list.
 <img id="ImageID1" 
    onclick="SelectAnItem(1)" 
    class="imgBoxSelection" 
-   src="http://www.willmaster.com/library/images/ImageClickSelects/flower.jpg">
+   src="Figures\Weekly_Tracker_Argentina.png">
 <img id="ImageID2" 
    onclick="SelectAnItem(2)" 
    class="imgBoxSelection" 
-   src="http://www.willmaster.com/library/images/ImageClickSelects/ninepatch.jpg">
+   src="Figures\Weekly_Tracker_Argentina.png">
 <img id="ImageID3" 
    onclick="SelectAnItem(3)" 
    class="imgBoxSelection" 
-   src="http://www.willmaster.com/library/images/ImageClickSelects/pinkgate.jpg">
+   src="Figures\Weekly_Tracker_Argentina.png">
 <br>
 <img id="ImageID4" 
    onclick="SelectAnItem(4)" 
    class="imgBoxSelection" 
-   src="http://www.willmaster.com/library/images/ImageClickSelects/sanddollar.jpg">
+   src="Figures\Weekly_Tracker_Argentina.png">
 <img id="ImageID5" 
    onclick="SelectAnItem(5)" 
    class="imgBoxSelection" 
