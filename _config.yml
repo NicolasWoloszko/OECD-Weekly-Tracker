@@ -1,2 +1,5 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: The OECD Weekly Tracker of economic activity
+logo: https://www.google.com/url?sa=i&url=https%3A%2F%2Flegalinstruments.oecd.org%2Ffr%2Finstruments%3Fmode%3Dadvanced%26committeeIds%3D1559%26dateType%3Dadoption&psig=AOvVaw0ZORmF7TF8NuklkNXPG48w&ust=1608295502706000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjZkeaF1e0CFQAAAAAdAAAAABAD
+show_downloads: "false"
+#google_analytics: [Your Google Analytics tracking ID]
