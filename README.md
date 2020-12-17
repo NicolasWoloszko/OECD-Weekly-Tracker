@@ -1,5 +1,63 @@
 ## Tracking GDP growth in real time 
 
+
+
+
+
+<h2>Select the wallpaper of your choice by clicking on it.<br>
+Alternatively, use the dropdown list.
+</h2>
+
+<div>
+
+<select 
+   id="DropdownListID" 
+   name="DropdownListName" 
+   onchange="SelectAnItem(this.selectedIndex)">
+<option>Select here or click a pattern above.</option>
+<option>Fleur</option>
+<option>Nine Patch</option>
+<option>Pink Gate</option>
+<option>Sand Dollar</option>
+<option>Sandria</option>
+<option>Blue Wheel</option>
+</select>
+</div>
+<br>  
+<div>
+<img id="ImageID1" 
+   onclick="SelectAnItem(1)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/flower.jpg">
+<img id="ImageID2" 
+   onclick="SelectAnItem(2)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/ninepatch.jpg">
+<img id="ImageID3" 
+   onclick="SelectAnItem(3)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/pinkgate.jpg">
+<br>
+<img id="ImageID4" 
+   onclick="SelectAnItem(4)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/sanddollar.jpg">
+<img id="ImageID5" 
+   onclick="SelectAnItem(5)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/sandria.jpg">
+<img id="ImageID6" 
+   onclick="SelectAnItem(6)" 
+   class="imgBoxSelection" 
+   src="http://www.willmaster.com/library/images/ImageClickSelects/wheel.jpg">
+
+</div>
+
+
+
+
+
+
 The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of economic activity with a delay of less than five days, making it particularly useful when activity is changing very rapidly. It also has a wide country coverage of OECD and G20 countries. The Tracker is thus particularly well suited to assessing activity during the turbulent period of the current global pandemic. The Tracker provides estimates of year-on-year growth rate in weekly GDP. It applies a machine learning model to a panel of Google Trends data for 46 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty.
 
 # Selected charts
