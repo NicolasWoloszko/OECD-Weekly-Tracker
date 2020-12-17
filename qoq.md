@@ -15,14 +15,9 @@ Quarterly estimates are derived using the (un)weighted mean of Weekly Tracker es
 
 Quarter-on-quarter GDP growth rates are derived from the quarterly estimtaes of yoy GDP growth rates using the following formula:
 
- 
-```math
-y_{qoq}^{Q2-2020} = \frac{1 + y_{yoy}^{Q2-2020}}{1 + y_{yoy}^{Q1-2020}} * (1 + y_{qoq}^{Q2-2019})
-```
-
 $$y_{qoq}^{Q2-2020} = \frac{1 + y_{yoy}^{Q2-2020}}{1 + y_{yoy}^{Q1-2020}} * (1 + y_{qoq}^{Q2-2019})$$
 
-$y_{qoq}^{Q2-2019}$ is taken from the OECD Quarterly National Accounts. 
+$$ y_{qoq}^{Q2-2019} $$ is taken from the OECD Quarterly National Accounts. 
 
 ### Figure 1. GDP growth (quarter-on-quarter) projections for Q4 2020
 ![](Figures/Histogram%20Q4%20qoq.png)
