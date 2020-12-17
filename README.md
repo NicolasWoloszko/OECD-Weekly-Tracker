@@ -12,7 +12,6 @@ Woloszko, N. (2020), "Tracking activity in real time with Google Trends", OECD E
 <select name="webmenu" id="webmenu">
     <option value="Argentina" title="Figures/Weekly_Tracker_Argentina.png"></option>
     <option value="Australia" title="Figures/Weekly_Tracker_Australia.png"></option>
-
 </select>
 
 $("body select").msDropDown();
