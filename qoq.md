@@ -1,3 +1,8 @@
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # Deriving quarter-on-quarter quarterly estimates
 
 The OECD Weekly Tracker provides weekly estimates of year-on-year GDP growth. The method to derive quarterly estimates of quarter-on-quarter is described below, and the estimates are to be found [here](https://algobank.oecd.org:4430/Nicolas.WOLOSZKO/the-oecd-weekly-tracker/-/raw/master/Data/quarter_on_quarter.xlsx).
