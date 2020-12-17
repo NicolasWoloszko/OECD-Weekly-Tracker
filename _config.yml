@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman #jekyll-theme-minimal
 title: The OECD Weekly Tracker of economic activity
-description:  
+project_tagline: OECD Innovation Lab 
 logo: https://legalinstruments.oecd.org/dist/img/oecd-logo-big.png
 show_downloads: "false"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum" "sunrise"
@@ -8,3 +8,5 @@ kramdown:
   math_engine: mathjax
 #google_analytics: [Your Google Analytics tracking ID]
 
+header_background_color: "#037bc1"
+header_background_color_secondary: "#037bc1"
