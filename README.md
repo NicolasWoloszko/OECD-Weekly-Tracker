@@ -1,3 +1,5 @@
+## Tracking GDP growth in real time 
+
 The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of economic activity with a delay of less than five days, making it particularly useful when activity is changing very rapidly. It also has a wide country coverage of OECD and G20 countries. The Tracker is thus particularly well suited to assessing activity during the turbulent period of the current global pandemic. The Tracker provides estimates of year-on-year growth rate in weekly GDP. It applies a machine learning model to a panel of Google Trends data for 46 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty.
 
 # Selected charts
