@@ -25,7 +25,7 @@ Additional data files:
 * [Quarterly estimates (year-on-year)](Data\quarterly_tracker.xlsx)
 * [Quarterly estimates (quarter-on-quarter)](Data\quarter_on_quarter.xlsx)
 
-### Methodology
+# Methodology
 * [Working Paper]((https://doi.org/10.1787/6b9c7518-en))
 * [OECD Economic Outlook, Chapter 2, Issue Note 1](https://www.oecd-ilibrary.org/sites/39a88ab1-en/1/3/2/1/index.html?itemId=/content/publication/39a88ab1-en&_csp_=fd64cf2a9a06f738f45c7aeb5a6f5024&itemIGO=oecd&itemContentType=issue)
 
