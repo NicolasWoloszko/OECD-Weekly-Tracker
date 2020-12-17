@@ -14,9 +14,9 @@ Alternatively, use the dropdown list.
    id="DropdownListID" 
    name="DropdownListName" 
    onchange="SelectAnItem(this.selectedIndex)">
-<option>Select here or click a pattern above.</option>
-<option>Fleur</option>
-<option>Nine Patch</option>
+<option>Select a country</option>
+<option>France</option>
+<option>Argentina</option>
 <option>Pink Gate</option>
 <option>Sand Dollar</option>
 <option>Sandria</option>
