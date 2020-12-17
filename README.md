@@ -5,9 +5,11 @@ The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of eco
 ### Weekly Tracker for the United States
 ![](Figures/Weekly_Tracker_United%20States.png)
 
-### Projections for Q4 2020 (quarter-on-quarter):
+### Projections for Q4 2020 (quarter-on-quarter)
 
 ![](Figures\Histogram%20Q4%20qoq.png)
+
+Quarter-on-quarter estimates are derived from the Weekly Tracker using a methodology described [here](qoq.md).
 
 # Data
 
