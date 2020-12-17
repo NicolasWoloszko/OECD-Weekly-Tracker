@@ -5,17 +5,6 @@ Charts for OECD and G20 countries are in the [Figures](Figures) folder. Charts f
 Please cite : 
 Woloszko, N. (2020), "Tracking activity in real time with Google Trends", OECD Economics Department Working Papers, No. 1634, OECD Publishing, Paris, https://doi.org/10.1787/6b9c7518-en.
 
-#webmenu{
-    width:340px;
-}
-
-<select name="webmenu" id="webmenu">
-    <option value="Argentina" title="Figures/Weekly_Tracker_Argentina.png"></option>
-    <option value="Australia" title="Figures/Weekly_Tracker_Australia.png"></option>
-</select>
-
-$("body select").msDropDown();
-
 1. Argentina
 ![](Figures/Weekly_Tracker_Argentina.png)
 
