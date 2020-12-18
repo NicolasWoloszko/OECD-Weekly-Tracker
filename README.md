@@ -1,6 +1,6 @@
 ## Tracking GDP growth in real time 
 
-The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of economic activity with a delay of less than five days. It  has a wide country coverage of OECD and G20 countries. The Tracker is thus particularly well suited to assessing activity during the turbulent period of the current global pandemic. The Tracker provides estimates of year-on-year growth rate in weekly GDP. It applies a machine learning model to a panel of Google Trends data for 46 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty (see [Can Google Trends be used to track economic activity in real-time?](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/))
+The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of economic activity with a delay of less than five days. It  has a wide country coverage of OECD and G20 countries. The Tracker is thus particularly well suited to assessing activity during the turbulent period of the current global pandemic. The Tracker provides estimates of year-on-year growth rate in weekly GDP. It applies a machine learning model to a panel of Google Trends data for 46 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty (see [blog](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/))
 
 # Selected charts
 
@@ -41,6 +41,6 @@ Woloszko, N. (2020), ["Tracking activity in real time with Google Trends"](https
 
 OECD (2020), OECD Economic Outlook, Volume 2020 [Issue 2]((https://www.oecd-ilibrary.org/sites/39a88ab1-en/1/3/2/1/index.html?itemId=/content/publication/39a88ab1-en&_csp_=fd64cf2a9a06f738f45c7aeb5a6f5024&itemIGO=oecd&itemContentType=issue)): Preliminary version, OECD Publishing, Paris, https://dx.doi.org/10.1787/39a88ab1-en.
 
-[Can Google Trends be used to track economic activity in real-time?](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/), Ecoscope post, December 2020. 
+Woloszko, N., [Can Google Trends be used to track economic activity in real-time?](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/), Ecoscope post, December 2020. 
 
 
