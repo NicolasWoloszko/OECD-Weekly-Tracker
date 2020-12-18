@@ -7,6 +7,10 @@ The OECD Weekly Tracker of GDP growth provides a high-frequency indicator of eco
 ### Weekly Tracker for the United States
 ![](Figures/Weekly_Tracker_United%20States.png)
 
+Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. Source: OECD Economic Outlook 108 database; OECD Weekly Tracker; UK Office for National Statistics; StatCan; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).
+
+Additional charts for G20 countries are [here](charts.md).
+
 ### Projections for Q4 2020 (quarter-on-quarter)
 
 ![](Figures\Histogram%20Q4%20qoq.png)
@@ -16,8 +20,6 @@ Quarter-on-quarter estimates are derived from the Weekly Tracker using a methodo
 # Data
 
 Download the Weekly Tracker data [here](Data\Weekly_Tracker_Excel.xlsx). 
-
-Weekly Tracker charts for G20 countries are [here](charts.md).
 
 Additional data files: 
 * [Weekly Tracker (human-readable)](Data\Weekly_Tracker_Excel.xlsx)
