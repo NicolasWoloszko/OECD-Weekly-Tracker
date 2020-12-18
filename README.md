@@ -20,8 +20,8 @@ Download the Weekly Tracker data [here](Data\Weekly_Tracker_Excel.xlsx).
 Weekly Tracker charts for G20 countries are [here](charts.md).
 
 Additional data files: 
-* [Weekly Tracker (human readable)](Data\Weekly_Tracker_Excel.xlsx)
-* [Weekly Tracker database](Data\weekly_tracker.xlsx)
+* [Weekly Tracker (human-readable)](Data\Weekly_Tracker_Excel.xlsx)
+* [Weekly Tracker (machine-readable)](Data\weekly_tracker.xlsx)
 * [Quarterly estimates (year-on-year)](Data\quarterly_tracker.xlsx)
 * [Quarterly estimates (quarter-on-quarter)](Data\quarter_on_quarter.xlsx)
 
