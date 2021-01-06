@@ -49,6 +49,8 @@ Woloszko, N. (2020), ["Tracking activity in real time with Google Trends"](https
 
 OECD (2020), OECD Economic Outlook, Volume 2020 [Issue 2]((https://www.oecd-ilibrary.org/sites/39a88ab1-en/1/3/2/1/index.html?itemId=/content/publication/39a88ab1-en&_csp_=fd64cf2a9a06f738f45c7aeb5a6f5024&itemIGO=oecd&itemContentType=issue)): Preliminary version, OECD Publishing, Paris, https://dx.doi.org/10.1787/39a88ab1-en.
 
-Woloszko, N., [Can Google Trends be used to track economic activity in real-time?](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/), Ecoscope post, December 2020. 
+Woloszko, N., [Can Google Trends be used to track economic activity in real-time?](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/), Ecoscope post, December 2020.
+
+Woloszko, N., [Tracking GDP using Google Trends and machine learning: A new OECD model](https://voxeu.org/article/tracking-gdp-using-google-trends-and-machine-learning), VoxEU, December 2020
 
 
