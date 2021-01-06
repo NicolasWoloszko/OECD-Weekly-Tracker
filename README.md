@@ -6,11 +6,13 @@ Please note these are not official OECD forecasts, which are most recently publi
 
 # The Weekly Tracker
 
-### Weekly Tracker: the United States
+<!-- ### Weekly Tracker: the United States
 ![](Figures/Weekly_Tracker_United%20States.png)
 
 ### Weekly Tracker: France
-![](Figures/Weekly_Tracker_France.png)
+![](Figures/Weekly_Tracker_France.png) -->
+
+<iframe src=" https://gitvfd.github.io/OECD-covid-weekly-tracker/" scrolling="no" frameborder="0" allowfullscreen="" width="100%" height="550px"></iframe>
 
 <sup><sub>Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
 Source: OECD Quarterly National Accounts; OECD Weekly Tracker; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
