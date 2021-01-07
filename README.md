@@ -29,7 +29,7 @@ Quarter-on-quarter estimates are derived from the Weekly Tracker using a methodo
 
 # Data
 
-Download the Weekly Tracker data [here](Data\Weekly_Tracker_Excel.xlsx). 
+<button name="button" onclick="Data\Weekly_Tracker_Excel.xlsx"> Download data </button> 
 
 Additional data files: 
 * [Weekly Tracker (human-readable)](Data\Weekly_Tracker_Excel.xlsx)
