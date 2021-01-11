@@ -17,9 +17,9 @@ Please note these are not official OECD forecasts, which are most recently publi
 <sup><sub>Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
 Source: OECD Quarterly National Accounts; OECD Weekly Tracker; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
 
-<!-- [All charts for G20 countries](charts.md) -->
+[All charts for G20 countries](charts.md)
 
-<button name="button" onclick="charts.md"> All charts for G20 countries </button> 
+<!-- <button name="button" onclick="charts.md"> All charts for G20 countries </button>  -->
 
 ### Projections for Q4 2020 (quarter-on-quarter)
 
