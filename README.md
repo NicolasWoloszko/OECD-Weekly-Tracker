@@ -2,36 +2,21 @@
 
 The OECD Weekly Tracker of GDP growth provides a real-time high-frequency indicator of economic activity using machine learning and Google Trends data. It  has a wide country coverage of OECD and G20 countries. The Tracker is thus particularly well suited to assessing activity during the turbulent period of the current global pandemic. The Tracker provides estimates of year-on-year growth rate in weekly GDP. It applies a machine learning model to a panel of Google Trends data for 46 countries, and aggregates together information about search behaviour related to consumption, labour markets, housing, trade, industrial activity and economic uncertainty (see [blog](https://oecdecoscope.blog/2020/12/14/can-google-trends-be-used-to-track-economic-activity-in-real-time1/))
 
+Additional information can be found on the [Weekly Tracker webpage](https://www.oecd.org/economy/weekly-tracker-of-gdp-growth/)
+
 Please note these are not official OECD forecasts, which are most recently published in the [OECD Economic Outlook](https://www.oecd.org/economic-outlook/). However, the Tracker is one of several indicators that feeds into the OECD forecast process, which helps to situate the current state of the economy.
 
 # The Weekly Tracker
 
-<!-- ### Weekly Tracker: the United States
-![](Figures/Weekly_Tracker_United%20States.png)
-
 ### Weekly Tracker: France
-![](Figures/Weekly_Tracker_France.png) -->
-
-<iframe src=" https://gitvfd.github.io/OECD-covid-weekly-tracker/" scrolling="no" frameborder="0" allowfullscreen="" width="100%" height="550px"></iframe>
+![](Figures/Weekly_Tracker_France.png)
 
 <sup><sub>Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
 Source: OECD Quarterly National Accounts; OECD Weekly Tracker; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
 
-[All charts for G20 countries](charts.md)
-
-<!-- <button name="button" onclick="charts.md"> All charts for G20 countries </button>  -->
-
-### Projections for Q4 2020 (quarter-on-quarter)
-
-![](Figures\Histogram%20Q4%20qoq.png)
-
-Quarter-on-quarter estimates are derived from the Weekly Tracker using a methodology described [here](qoq.md).
 
 # Data
 
-<button name="button" onclick="Data\Weekly_Tracker_Excel.xlsx"> Download data </button> 
-
-Additional data files: 
 * [Weekly Tracker (human-readable)](Data\Weekly_Tracker_Excel.xlsx)
 * [Weekly Tracker (machine-readable)](Data\weekly_tracker.xlsx)
 * [Quarterly estimates (year-on-year)](Data\quarterly_tracker.xlsx)
