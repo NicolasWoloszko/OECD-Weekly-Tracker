@@ -8,11 +8,14 @@ Please note these are not official OECD forecasts, which are most recently publi
 
 # The Weekly Tracker
 
+The sad anniversary of the first economic impact of the pandemic is now passing in many countries. However, this can make it difficult to interpret recent movements in the Weekly Tracker because it is based on GDP growth compared to the same week a year earlier. In particular, recent sharp upturns in the Tracker may reflect the fact that GDP is being compared with a period a year earlier when GDP had fallen sharply as the first set of lockdown measures was imposed. In order to provide a clearer visual representation of recent movements in activity, a new version of the Tracker is here introduced, which measures the percentage difference in GDP relative to a pandemic-free counterfactual (where the counterfactual is taken to be the OECD Economic Outlook forecast published in December 2019). To be clear, this Counterfactual Tracker is a simple transformation of the original Tracker (described in more detail in a note available here) and so continues to be essentially based on recent data on Google Trends. For some countries (for example France and Italy) recent upturns in the Weekly Tracker do not appear in the Counterfactual Tracker, indicating that there is no sign of any recent recovery, whereas for other countries (for example the United States) the upturn is also present in the Counterfactual Tracker and so suggests some recent strengthening in activity.
+
 ### Weekly Tracker: France
 ![](Figures/Weekly_Tracker_France.png)
 
 <sup><sub>Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
-Source: OECD Quarterly National Accounts; OECD Weekly Tracker; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
+
+Source: OECD Weekly Tracker (Woloszko, 2020); OECD Economic Outlook; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
 
 
 # Data
