@@ -13,9 +13,9 @@ The sad anniversary of the first economic impact of the pandemic is now passing 
 ### Weekly Tracker: France
 ![](Figures/Weekly_Tracker_France.png)
 
-<sup><sub>Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
+Note: The blue confidence band shows 95% confidence intervals. Red dots representing GDP growth are official outturns. Monthly GDP growth series are used when available (for the United Kingdom and Canada). The darkness of the grey background reflects confinement stringency based on the Oxford Blavatnik Index. 
 
-Source: OECD Weekly Tracker (Woloszko, 2020); OECD Economic Outlook; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).</sub></sup>
+Source: OECD Weekly Tracker (Woloszko, 2020); OECD Economic Outlook; and Oxford COVID-19 Government Response Tracker (Hale et al., 2020).
 
 
 # Data
